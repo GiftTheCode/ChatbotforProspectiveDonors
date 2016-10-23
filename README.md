@@ -8,7 +8,8 @@ https://www.facebook.com/Blake-Boultbee-Youth-Outreach-Service-776549159153547/?
 
 ##Sample Conversation 
 
-Me: Hi!
+Me: Hi!-- 
+
 Chatbot: Greetings from Blake Boultbee Youth Outreach Service! Hope you're having a great day!
 
 Me: I want to make a donation
