@@ -18,7 +18,7 @@ Chatbot: Thank you for willing to help us out! Could you give us your name, your
 
 Me: Ronak 5197814269 7am
 
-Chatbot: Thanks for everything! A Blake Boultbee representative will contact you on 5197816942 at the time you've specified! Have a great day!
+Chatbot: Thanks for everything! A Blake Boultbee representative will contact you on 5197814269 at the time you've specified! Have a great day!
 
 Me: Thank you :)
 
